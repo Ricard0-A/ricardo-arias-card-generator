@@ -2,7 +2,6 @@
 
 body {
   background-color: green;
-  /* box-sizing: border-box; */
 }
 
 .card {
@@ -10,11 +9,9 @@ body {
   text-align: center;
   position: relative;
   background-color: white;
-  /* display: inline-block; */
   margin: auto;
   height: 400px;
   width: 300px;
-  /* padding: 20px; */
   padding-top: 120px;
   border-radius: 7px;
   border: solid 1px black;
